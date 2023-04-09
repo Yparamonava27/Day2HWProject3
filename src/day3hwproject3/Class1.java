@@ -6,4 +6,8 @@ public class Class1 {
 		System.out.println("Practicing stashing again...");
 	}
 
+	public void weather() {
+		System.out.println("Its beatiful out here in Tempe");
+	}
+	
 }
